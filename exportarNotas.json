@@ -1,0 +1,245 @@
+[
+    {
+        "turno": {
+            "nome": "Manhã",
+            "cod": 1
+        },
+        "serie": 1,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "João Gustavo",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 2,
+                "nome": "Kennyd Santana",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 3,
+                "nome": "Raphael Augusto",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "turno": {
+            "nome": "Tarde",
+            "cod": 2
+        },
+        "serie": 2,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "Maxel Udson",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 2,
+                "nome": "Erik Silva",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 3,
+                "nome": "Débora Silva",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "turno": {
+            "nome": "Manhã",
+            "cod": 1
+        },
+        "serie": 3,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "Maria Silva",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 2,
+                "nome": "Gustavo Gomes",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            },
+            {
+                "ru": 3,
+                "nome": "Marcos Silva",
+                "materias": {
+                    "portugues":{
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "matematica":{
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    "ingles":{
+                       "materiaId": 3,
+                       "nota":4.9,
+                       "faltas":3,
+                       "proximaProva":"24-06-2022"
+                    }
+                }
+            }
+        ]
+    }
+]
