@@ -1,0 +1,32 @@
+[
+    {
+        "materiaId": 1,
+        "nome": "Português",
+        "conteudos": [
+        "Sintaxe",
+        "Conjugação",
+        "Literatura",
+        "Readação"
+        ]
+    },
+    {
+        "materiaId": 2,
+        "nome": "Matemática",
+        "conteudos": [
+        "Função",
+        "Somar",
+        "Dividir",
+        "Subtrair"
+        ]
+    },
+    {
+        "materiaId": 3,
+        "nome": "Inglês",
+        "conteudos": [
+        "Verbo To Be",
+        "Tag Questions",
+        "Simple Past",
+        "Simple Present"
+        ]
+    }
+]
