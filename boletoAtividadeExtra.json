@@ -1,0 +1,47 @@
+[
+    {
+        "ru": 1,
+        "atividadeExtra": [
+            {
+                "nome": "Natação",
+                "preco": 60,
+                "cargaHoraria": 80
+            },
+            {
+                "nome": "Música",
+                "preco": 100,
+                "cargaHoraria": 50
+            }
+        ]
+    },
+    {
+        "ru": 2,
+        "atividadeExtra": [
+            {
+                "nome": "Natação",
+                "preco": 60,
+                "cargaHoraria": 90
+            },
+            {
+                "nome": "Música",
+                "preco": 100,
+                "cargaHoraria": 70
+            }
+        ]
+    },
+    {
+        "ru": 3,
+        "atividadeExtra": [
+            {
+                "nome": "Natação",
+                "preco": 40,
+                "cargaHoraria": 80
+            },
+            {
+                "nome": "Música",
+                "preco": 100,
+                "cargaHoraria": 70
+            }
+        ]
+    }
+]
