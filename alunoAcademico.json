@@ -112,16 +112,19 @@
        ],
        "materias":{
           "portugues":{
+             "materiaId": 1,
              "nota":5,
              "faltas":2,
              "proximaProva":"24-06-2022"
           },
           "matematica":{
+            "materiaId": 2,
              "nota":4.5,
              "faltas":0,
              "proximaProva":"24-06-2022"
           },
           "ingles":{
+            "materiaId": 3,
              "nota":4.9,
              "faltas":3,
              "proximaProva":"24-06-2022"
