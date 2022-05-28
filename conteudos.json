@@ -2,6 +2,8 @@
     {
         "materiaId": 1,
         "nome": "Português",
+        "preco": 40,
+        "cargaHoraria": 80,
         "conteudos": [
         "Sintaxe",
         "Conjugação",
@@ -12,6 +14,8 @@
     {
         "materiaId": 2,
         "nome": "Matemática",
+        "preco": 50,
+        "cargaHoraria": 100,
         "conteudos": [
         "Função",
         "Somar",
@@ -22,6 +26,8 @@
     {
         "materiaId": 3,
         "nome": "Inglês",
+        "preco": 30,
+        "cargaHoraria": 60,
         "conteudos": [
         "Verbo To Be",
         "Tag Questions",
