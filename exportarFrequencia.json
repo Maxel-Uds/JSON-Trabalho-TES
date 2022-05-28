@@ -1,0 +1,74 @@
+[
+    {
+        "turno": {
+            "nome": "Manhã",
+            "cod": 1
+        },
+        "serie": 1,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "João Gustavo",
+                "faltas": 3
+            },
+            {
+                "ru": 2,
+                "nome": "Joana Silva",
+                "faltas": 4
+            },
+            {
+                "ru": 3,
+                "nome": "Raphael Gustavo",
+                "faltas": 1
+            }
+        ]
+    },
+    {
+        "turno": {
+            "nome": "Tarde",
+            "cod": 2
+        },
+        "serie": 2,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "Maxel Udson",
+                "faltas": 0
+            },
+            {
+                "ru": 2,
+                "nome": "Erik Silva",
+                "faltas": 4
+            },
+            {
+                "ru": 3,
+                "nome": "Débora Silva",
+                "faltas": 0
+            }
+        ]
+    },
+    {
+        "turno": {
+            "nome": "Manhã",
+            "cod": 1
+        },
+        "serie": 3,
+        "alunos": [
+            {
+                "ru": 1,
+                "nome": "Maria Silva",
+                "faltas": 7
+            },
+            {
+                "ru": 2,
+                "nome": "Gustavo Gomes",
+                "faltas": 2
+            },
+            {
+                "ru": 3,
+                "nome": "Marcos Silva",
+                "faltas": 0
+            }
+        ]
+    }
+]
