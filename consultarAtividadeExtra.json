@@ -1,0 +1,66 @@
+[
+    {
+        "professor": {
+            "id": 1,
+            "nome": "João Santana"
+        },
+        "atividades": [
+            {
+                "id": 2,
+                "nome": "Dança"
+            },
+            {
+                "id": 1,
+                "nome": "Música"
+            }
+        ]
+    },
+    {
+        "professor": {
+            "id": 2,
+            "nome": "Carlos Alberto"
+        },
+        "atividades": [
+            {
+                "id": 3,
+                "nome": "Frânces"
+            },
+            {
+                "id": 4,
+                "nome": "Culinária"
+            }
+        ]
+    },
+    {
+        "professor": {
+            "id": 3,
+            "nome": "João Carlos"
+        },
+        "atividades": [
+            {
+                "id": 5,
+                "nome": "Computação"
+            },
+            {
+                "id": 6,
+                "nome": "Natação"
+            }
+        ]
+    },
+    {
+        "professor": {
+            "id": 4,
+            "nome": "Carlos Santos"
+        },
+        "atividades": [
+            {
+                "id": 7,
+                "nome": "Educação Financeira"
+            },
+            {
+                "id": 6,
+                "nome": "Ginástica"
+            }
+        ]
+    }
+]
