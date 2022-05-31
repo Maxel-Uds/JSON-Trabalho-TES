@@ -1,6 +1,8 @@
 [
     {
         "ru": 1,
+        "nome": "Raphael Augusto",
+        "RG": "445299903",
         "atividadeExtra": [
             {
                 "nome": "Natação",
@@ -16,6 +18,8 @@
     },
     {
         "ru": 2,
+        "nome": "Joana Maria",
+        "RG": "315894866",
         "atividadeExtra": [
             {
                 "nome": "Natação",
@@ -31,6 +35,8 @@
     },
     {
         "ru": 3,
+        "nome": "Kennyd Santana",
+        "RG": "290506566",
         "atividadeExtra": [
             {
                 "nome": "Natação",
