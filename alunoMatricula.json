@@ -12,15 +12,15 @@
        "sexo": "Masculino",
        "serie": "4ª Série",
        "sede": "Sede 1",
-       "atividadeExtra":{
-          "natacao":{
-             "nome": "Natação",
-             "codigo": 1
-          },
-          "musica":{
+       "atividadeExtra": [
+         {
+            "nome": "Natação",
+            "codigo": 1
+         },
+         {
             "nome": "Música",
             "codigo": 2
-          }
-       }
+         }
+      ]
     }
 ]
