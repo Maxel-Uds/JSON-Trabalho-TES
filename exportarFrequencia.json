@@ -9,17 +9,69 @@
             {
                 "ru": 1,
                 "nome": "João Gustavo",
-                "faltas": 3
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas": 2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 2,
                 "nome": "Kennyd Santana",
-                "faltas": 4
+                "materias": [
+                    {
+                       "nome": "Portugês",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 3,
                 "nome": "Raphael Augusto",
-                "faltas": 1
+                "materias": [
+                    {
+                       "nome": "português",
+                       "materiaId": 1,
+                       "nota":5,
+                       "faltas":2,
+                       "proximaProva":"24-06-2022"
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "nota":4.5,
+                       "faltas":0,
+                       "proximaProva":"24-06-2022"
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             }
         ]
     },
@@ -33,17 +85,65 @@
             {
                 "ru": 1,
                 "nome": "Maxel Udson",
-                "faltas": 0
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 2,
                 "nome": "Erik Silva",
-                "faltas": 4
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas": 2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 3,
                 "nome": "Débora Silva",
-                "faltas": 0
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             }
         ]
     },
@@ -57,17 +157,65 @@
             {
                 "ru": 1,
                 "nome": "Maria Silva",
-                "faltas": 7
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 2,
                 "nome": "Gustavo Gomes",
-                "faltas": 2
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             },
             {
                 "ru": 3,
                 "nome": "Marcos Silva",
-                "faltas": 0
+                "materias": [
+                    {
+                       "nome": "Português",
+                       "materiaId": 1,
+                       "faltas":2
+                    },
+                    {
+                       "nome": "Matemática",
+                       "materiaId": 2,
+                       "faltas":0
+                    },
+                    {
+                       "nome": "Inglês",
+                       "materiaId": 3,
+                       "faltas":3
+                    }
+                ]
             }
         ]
     }
