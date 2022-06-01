@@ -13,23 +13,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -40,23 +34,17 @@
                     {
                        "nome": "Portugês",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -67,23 +55,17 @@
                     {
                        "nome": "português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             }
@@ -103,23 +85,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -130,23 +106,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -157,23 +127,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             }
@@ -193,23 +157,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -220,23 +178,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             },
@@ -247,23 +199,17 @@
                     {
                        "nome": "Português",
                        "materiaId": 1,
-                       "nota":5,
-                       "faltas":2,
-                       "proximaProva":"24-06-2022"
+                       "nota":5
                     },
                     {
                        "nome": "Matemática",
                        "materiaId": 2,
-                       "nota":4.5,
-                       "faltas":0,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.5
                     },
                     {
                        "nome": "Inglês",
                        "materiaId": 3,
-                       "nota":4.9,
-                       "faltas":3,
-                       "proximaProva":"24-06-2022"
+                       "nota":4.9
                     }
                 ]
             }
