@@ -1,6 +1,6 @@
 [
     {
-       "nome":"Grady Lebsack DVM",
+       "nome":"Raphael Augusto Gomes",
        "nascimento":"09-05-2010",
        "atividadeExtra":[
          {
@@ -38,152 +38,152 @@
        "ru":"1"
     },
     {
-       "nome":"Arnold Altenwerth",
-       "nascimento":"09-05-2010",
+       "nome":"Kennyd Santana Goes",
+       "nascimento":"10-04-2010",
        "atividadeExtra":[
          {
+            "id": 2,
+            "nome": "Dança"
+        },
+        {
             "id": 1,
             "nome": "Música"
-         },
-         {
-            "id": 6,
-            "nome": "Natação"
-         }
+        }
        ],
        "materias": [
           {
              "nome": "Portugês",
              "materiaId": 1,
-             "nota":5,
-             "faltas":2,
+             "nota": 3.1,
+             "faltas": 0,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Matemática",
              "materiaId": 2,
-             "nota":4.5,
-             "faltas":0,
+             "nota":4.9,
+             "faltas": 5,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Inglês",
              "materiaId": 3,
-             "nota":4.9,
-             "faltas":3,
+             "nota":2.7,
+             "faltas": 2,
              "proximaProva":"24-06-2022"
           }
        ],
        "ru":"2"
     },
     {
-       "nome":"Darrin Witting",
-       "nascimento":"09-05-2010",
+       "nome":"Débora Nascimento",
+       "nascimento":"01-02-2010",
        "atividadeExtra":[
          {
-            "id": 1,
-            "nome": "Música"
-         },
-         {
-            "id": 6,
-            "nome": "Natação"
-         }
+            "id": 3,
+            "nome": "Frânces"
+        },
+        {
+            "id": 4,
+            "nome": "Culinária"
+        }
        ],
        "materias": [
           {
              "nome": "Portugês",
              "materiaId": 1,
-             "nota":5,
-             "faltas":2,
+             "nota": 4.5,
+             "faltas": 7,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Matemática",
              "materiaId": 2,
-             "nota":4.5,
-             "faltas":0,
+             "nota": 3.1,
+             "faltas": 1,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Inglês",
              "materiaId": 3,
-             "nota":4.9,
-             "faltas":3,
+             "nota": 5,
+             "faltas": 4,
              "proximaProva":"24-06-2022"
           }
        ],
        "ru":"3"
     },
     {
-       "nome":"Matt Kovacek",
-       "nascimento":"09-05-2010",
+       "nome":"João Gustavo",
+       "nascimento":"07-05-2010",
        "atividadeExtra":[
          {
-            "id": 1,
-            "nome": "Música"
-         },
-         {
+            "id": 5,
+            "nome": "Computação"
+        },
+        {
             "id": 6,
             "nome": "Natação"
-         }
+        }
        ],
        "materias": [
           {
              "nome": "Portugês",
              "materiaId": 1,
-             "nota":5,
-             "faltas":2,
+             "nota": 1.7,
+             "faltas": 5,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Matemática",
              "materiaId": 2,
-             "nota":4.5,
-             "faltas":0,
+             "nota": 3.7,
+             "faltas": 2,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Inglês",
              "materiaId": 3,
-             "nota":4.9,
-             "faltas":3,
+             "nota":4.7,
+             "faltas": 7,
              "proximaProva":"24-06-2022"
           }
        ],
        "ru":"4"
     },
     {
-       "nome":"Jasmine Huels",
-       "nascimento":"09-05-2010",
+       "nome":"Iago Silva",
+       "nascimento":"06-15-2010",
        "atividadeExtra":[
          {
-            "id": 1,
-            "nome": "Música"
-         },
-         {
-            "id": 6,
-            "nome": "Natação"
-         }
+            "id": 7,
+            "nome": "Educação Financeira"
+        },
+        {
+            "id": 8,
+            "nome": "Ginástica"
+        }
        ],
        "materias": [
           {
              "nome": "Portugês",
              "materiaId": 1,
-             "nota":5,
-             "faltas":2,
+             "nota": 4,
+             "faltas": 1,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Matemática",
              "materiaId": 2,
-             "nota":4.5,
-             "faltas":0,
+             "nota": 3.7,
+             "faltas": 0,
              "proximaProva":"24-06-2022"
           },
           {
              "nome": "Inglês",
              "materiaId": 3,
-             "nota":4.9,
-             "faltas":3,
+             "nota": 2,
+             "faltas": 6,
              "proximaProva":"24-06-2022"
           }
        ],
