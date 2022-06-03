@@ -1,24 +1,26 @@
-{
-   "ru":"1",
-   "nome":"Raphael Augusto Gomes",
-   "nascimento":"09-05-2010",
-   "documento": {
-      "tipo": "RG",
-      "documento": "12.243.342-0"
-   },
-   "nomeMae": "Divina Maria Gomes",
-   "documentoMae": "641.728.000-41",
-   "sexo": "Masculino",
-   "serie": "4ª Série",
-   "sede": "Sede 1",
-   "atividadeExtra": [
-      {
-         "nome": "Dança",
-         "codigo": 2
+[
+   {
+      "ru":"1",
+      "nome":"Raphael Augusto Gomes",
+      "nascimento":"09-05-2010",
+      "documento": {
+         "tipo": "RG",
+         "documento": "12.243.342-0"
       },
-      {
-         "nome": "Música",
-         "codigo": 1
-      }
-   ]
-}
+      "nomeMae": "Divina Maria Gomes",
+      "documentoMae": "641.728.000-41",
+      "sexo": "Masculino",
+      "serie": "4ª Série",
+      "sede": "Sede 1",
+      "atividadeExtra": [
+         {
+            "nome": "Dança",
+            "codigo": 2
+         },
+         {
+            "nome": "Música",
+            "codigo": 1
+         }
+      ]
+   }
+]
