@@ -14,12 +14,12 @@
        "sede": "Sede 1",
        "atividadeExtra": [
          {
-            "nome": "Natação",
-            "codigo": 1
+            "nome": "Dança",
+            "codigo": 2
          },
          {
             "nome": "Música",
-            "codigo": 2
+            "codigo": 1
          }
       ]
     }
