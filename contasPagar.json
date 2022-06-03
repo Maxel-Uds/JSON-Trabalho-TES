@@ -1,6 +1,8 @@
 [
     {
         "ru": 1,
+        "nome": "Raphael Augusto",
+        "RG": "445299903",
         "materias": [
             {
                 "nome": "Português",
@@ -21,6 +23,8 @@
     },
     {
         "ru": 2,
+        "nome": "Joana Maria",
+        "RG": "315894866",
         "materias": [
             {
                 "nome": "Português",
@@ -41,6 +45,8 @@
     },
     {
         "ru": 3,
+        "nome": "Kennyd Santana",
+        "RG": "290506566",
         "materias": [
             {
                 "nome": "Português",
