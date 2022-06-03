@@ -38,11 +38,11 @@
       "sede": "Sede 1",
       "atividadeExtra": [
          {
-            "id": 3,
+            "codigo": 3,
             "nome": "Frânces"
         },
         {
-            "id": 4,
+            "codigo": 4,
             "nome": "Culinária"
         }
       ]
@@ -62,11 +62,11 @@
       "sede": "Sede 5",
       "atividadeExtra": [
          {
-            "id": 5,
+            "codigo": 5,
             "nome": "Computação"
          },
          {
-            "id": 6,
+            "codigo": 6,
             "nome": "Natação"
          }
       ]
