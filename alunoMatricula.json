@@ -22,5 +22,53 @@
             "codigo": 1
          }
       ]
+   },
+   {
+      "ru":"2",
+      "nome":"Kennyd Santana Goes",
+      "nascimento":"21-05-2009",
+      "documento": {
+         "tipo": "RG",
+         "documento": "36.590.758-3"
+      },
+      "nomeMae": "Luiza Mariane das Neves",
+      "documentoMae": "850.628.200-49",
+      "sexo": "Masculino",
+      "serie": "2ª Série",
+      "sede": "Sede 1",
+      "atividadeExtra": [
+         {
+            "id": 3,
+            "nome": "Frânces"
+        },
+        {
+            "id": 4,
+            "nome": "Culinária"
+        }
+      ]
+   },
+   {
+      "ru":"3",
+      "nome":"Aparecida Tânia Larissa Carvalho",
+      "nascimento":"14-04-2011",
+      "documento": {
+         "tipo": "RG",
+         "documento": "32.625.486-9"
+      },
+      "nomeMae": "Divina Maria Gomes",
+      "documentoMae": "857.357.400-32",
+      "sexo": "Feminino",
+      "serie": "6ª Série",
+      "sede": "Sede 5",
+      "atividadeExtra": [
+         {
+            "id": 5,
+            "nome": "Computação"
+         },
+         {
+            "id": 6,
+            "nome": "Natação"
+         }
+      ]
    }
 ]
