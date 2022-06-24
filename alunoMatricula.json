@@ -3,6 +3,7 @@
       "ru":"1",
       "nome":"Raphael Augusto Gomes",
       "nascimento":"09-05-2010",
+      "email": "raphaelaugusto123@gmail.com",
       "documento": {
          "tipo": "RG",
          "documento": "12.243.342-0"
@@ -27,6 +28,7 @@
       "ru":"2",
       "nome":"Kennyd Santana Goes",
       "nascimento":"21-05-2009",
+      "email": "kennyd123@gmail.com",
       "documento": {
          "tipo": "RG",
          "documento": "36.590.758-3"
@@ -51,6 +53,7 @@
       "ru":"3",
       "nome":"Aparecida Tânia Larissa Carvalho",
       "nascimento":"14-04-2011",
+      "email": "desaparecida123@gmail.com",
       "documento": {
          "tipo": "RG",
          "documento": "32.625.486-9"
